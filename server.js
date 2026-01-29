@@ -17,7 +17,8 @@ function header() {
             <a href="/about">About</a> | 
             <a href="/contact">Contact</a> | 
             <a href="/review">Review</a> | 
-            <a href="/info">Info</a>
+            <a href="/info">Info</a> |
+            <a href="/product?id=1">Product Details</a>
         </nav>
     </header>
     `;
